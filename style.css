@@ -1,0 +1,166 @@
+@import url('@mui/icons-material/SportsSoccer');
+@import url('http://font.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    background-image: linear-gradient(#767375, rgb(56, 2, 2));
+   height: 22vh;
+   font-weight: bold;
+   letter-spacing: 2px;
+}
+*{
+    margin: 0px; padding: 0px; font-family: 'Montserrat', sans-serif;
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 60%;
+}
+.left{
+    background-color: #d7f70a;
+    width: 200px;
+    height: 100%;
+    float: left;
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.profileimage.jpeg{
+    height: 180px;
+    width: 180px;
+    background-color: rgb(216, 10, 10);
+    border-radius: 50%;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    border: 10px solid #fbb03b;
+    box-shadow: 6px 7px 9px 5px #fd9f0673;
+}
+.profileimage.jpeg{
+    width: 200%;
+    border-radius: 70%;
+}
+.box-1{
+    position: relative;
+}
+.heading{
+    background-color: #4d4d4d;
+    padding: 10px;
+    color: #fbb03b;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -15px;
+}
+.heading::after{
+    content: '';
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    background-color: #5a5959;
+    left: 191px;
+    top: 26px;
+    transform: rotate(56deg);
+    z-index: -1;
+}
+.p1{
+    padding: 9px 10px;
+    font-size: 11px;
+}
+.icons1{
+    font-size: 16px!important;
+    padding-right: 10px!important;
+    vertical-align: sub;
+}
+.skill-container{
+    width: 90% ;
+    background-color: #4d4d4d;
+    margin: 0px 10px;
+}
+.skill{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;   
+}
+.flutter{
+    width: 70%;
+    background-color: rgb(244, 10, 248);
+}
+.php{
+    width: 30%;
+    background-color: rgb(244, 10, 248);
+}
+.html{
+    width: 70%;
+    background-color: rgb(244, 10, 248);
+}
+.web{
+    width: 50%;
+    background-color: rgb(244, 10, 248);
+}
+.App{
+    width: 50%;
+    background-color: rgb(244, 10, 248);
+}
+.icons2{
+    padding: 18px 10px;
+}
+.name-div{
+    padding: 86px 0px 60px 55px;
+    text-align:  center;
+    letter-spacing: 3px;
+}
+.name-div h1{
+    margin-bottom: 10px;
+}
+.box-2{
+    padding: 0px 50px;
+    margin-top: 30px;
+}
+.p2{
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+
+h2{
+    font-size: 16px;
+    margin-bottom:15px ;
+}
+.cions3{
+    vertical-align: bottom;
+    font-size: 21px!important;
+    color: #4d4d4d;
+}
+.p3{
+    font-size: 13px;
+    word-spacing: 1px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+}
+.p3 span{
+    color: #000dff;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
